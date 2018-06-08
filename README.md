@@ -1,2 +1,2 @@
 # hello-world
-this is first time
+this is first time using git hub
